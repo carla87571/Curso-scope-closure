@@ -10,3 +10,8 @@ function nameOfDog() {
     console.log(`El mejor perrito es ${nameOfDog}`);
 }
 var elmo = 'Elmito';
+
+nameOfDog("Elmo");
+function nameOfDog(name) {
+    console.log(name);
+}
