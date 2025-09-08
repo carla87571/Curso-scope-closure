@@ -11,7 +11,7 @@ function nameOfDog() {
 }
 var elmo = 'Elmito';
 
-nameOfDog("Elmo");
-function nameOfDog(name) {
+nameOfDog1("Elmo");
+function nameOfDog1(name) {
     console.log(name);
 }
